@@ -7,5 +7,11 @@ Welcome to the Sales Dashboard Using Power BI source file repository. If you wan
 5. Open PowerBI Desktop in your laptop and navigate to File--> Open --> Navigate to this folder and Open Sales.Pbix file.
 6. You'll now see the below displaying dashboard.
 7. If you face any errors or don't see this dashboard, you might need to adjust your dataset locations to your new directory structure. You need to be familiar with PowerBI desktop to use this Project.
-## Preview  
+## Sales Overview Dashboard
 ![Sales Overview Dashboard](https://github.com/Rajasekhar1131997/Sales_Dashboard_Using_PowerBI/blob/main/Overview.png)
+
+## Sales DAX Demos Report
+![Sales DAX Demos Report](https://github.com/Rajasekhar1131997/Sales_Dashboard_Using_PowerBI/blob/main/DAX_Demos.png)
+
+## Sales Map View Report
+![Sales Map View](https://github.com/Rajasekhar1131997/Sales_Dashboard_Using_PowerBI/blob/main/Sales_Map.png)
